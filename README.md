@@ -1,3 +1,3 @@
 # helloworddatabinding
 
-Data bindin hello world
+Data binding hello world
