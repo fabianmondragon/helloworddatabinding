@@ -1,3 +1,3 @@
 # helloworlddatabinding
 
-Data binding hello world
+Data binding hello world in Android-Kotlin
