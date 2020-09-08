@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldDataBinding</string>
+    <string name="user_name">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="password_again">Enter password again</string>
+    <string name="email">Enter email</string>
+</resources>
