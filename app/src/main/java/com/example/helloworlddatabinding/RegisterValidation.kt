@@ -4,15 +4,12 @@ import androidx.databinding.ObservableField
 
 class RegisterValidation {
 
-    var isEnabled = ObservableField<Boolean>()
     var userNameError = ObservableField<String>()
     var passwordError = ObservableField<String>()
     var passwordErrorAgain = ObservableField<String>()
     var emailError = ObservableField<String>()
 
     var userName = ObservableField<String>()
-    var password = ObservableField<String>()
-    val passwordAgain = ObservableField<String>()
     val email = ObservableField<String>()
 
     var canRegister: Boolean = false
